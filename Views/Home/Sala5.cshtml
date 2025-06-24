@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Sala5";
+}
+
+<div class="Fondo">
+</div>
+
+<section class="Sala5">
+<div>
+ <audio controls> <source src="\audio\AUDIO.m4a" type="audio/mpeg"></audio>
+ <h1>Cual es la palabra clave que escuchaste en el audio?</h1>
+<form method="post"  action='@Url.Action("FinJuego", "Home")'>
+Ingresar respuesta:<input type="text" name="respuesta"><br/>
+<input type="submit" value="Comprobar respuesta"></form>
+<img src="\img\imagen4.webp" alt="Foto audio">
+</div>
+<div>
+    <form method="post"  action='@Url.Action("DevolverPista", "Home")'>
+    <input type="submit" value="Pedir pista">
+    </form>
+</div>
+</section>

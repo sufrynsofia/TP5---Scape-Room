@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Sala1";
+}
+
+<div class="Fondo">
+</div>
+
+<section class="Sala1">
+    <div>
+    <h1>Cual es el chico que esta mas perdido?</h1>
+    <h3>Ingresa el numero del chico que esta mas perdido</h3>
+    <h2>Importante!: Tienen que pasar el numero de binario a hexadecimal</h2>
+    <form method="post"  action='@Url.Action("PasarAOtraSala", "Home")'>
+    Ingresa la respuesta:<input type="text" name="respuesta"><br/>
+    <input type="submit" value="Comprobar respuesta"></form>
+    </div>
+    <img src="\img\foto 1.png" alt="Foto chicos perdidos">
+    <div>
+    <form method="post"  action='@Url.Action("DevolverPista", "Home")'>
+    <input type="submit" value="Pedir pista">
+    </form>
+    </div>
+</section>
+
+ 

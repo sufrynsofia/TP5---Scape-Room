@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Pistas";
+}
+
+<p>@ViewBag.Pista</p>
+        <div>
+        <form method="post"  action='@Url.Action("PasarAOtraSala", "Home")'>
+        <input type="submit" values="Pedir pista">
+        </form>
+        </div>
+ 

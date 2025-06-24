@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Sala2";
+}
+
+<div class="Fondo">
+</div>
+
+<section class="Sala2">
+<div>
+<h1>Cual es la respuesta del acertijo?</h1>
+<form method="post"  action='@Url.Action("PasarAOtraSala", "Home")'>
+Ingresar respuesta:<input type="text" name="respuesta"><br/>
+<input type="submit" value="Comprobar respuesta"></form>
+</div>
+<img src="\img\imagen6.webp" alt="Foto botella">
+<div>
+    <form method="post"  action='@Url.Action("DevolverPista", "Home")'>
+    <input type="submit" value="Pedir pista">
+    </form>
+    </div>
+</div>
+</section>

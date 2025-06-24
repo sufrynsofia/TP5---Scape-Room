@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Sala3";
+}
+
+<div class="Fondo">
+</div>
+
+<section class="Sala3">
+<div>
+<h1>Cual es la palabra que se forma?</h1>
+<h3>Cada uno de los objetos representa una letra para formar una palabra</h3>
+<form method="post"  action='@Url.Action("PasarAOtraSala", "Home")'>
+Ingresar respuesta:<input type="text" name="respuesta"><br/>
+<input type="submit" value="Comprobar respuesta"></form>
+<img src="\img\imagen2.webp" alt="Foto barco">
+</div>
+<div>
+    <form method="post"  action='@Url.Action("DevolverPista", "Home")'>
+    <input type="submit" value="Pedir pista">
+    </form>
+</div>
+</section>

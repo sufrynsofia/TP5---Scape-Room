@@ -32,6 +32,8 @@ public class HomeController : Controller
     {
         SalaDeEscape nuevaPartida = new SalaDeEscape ();
         HttpContext.Session.SetString("JuegoActual", Objeto.ObjectToString(nuevaPartida));
+        ViewBag.numeroSala = nuevaPartida.NumeroSala;
+        ViewBag.pistas = nuevaPartida.Pistas;
         return View ("Sala1");
     }
 
@@ -49,6 +51,8 @@ public class HomeController : Controller
             nuevaPartida.CompararRespuesta(respuesta);
         }
         HttpContext.Session.SetString("JuegoActual", Objeto.ObjectToString(nuevaPartida));
+        ViewBag.numeroSala = nuevaPartida.NumeroSala;
+        ViewBag.pistas = nuevaPartida.Pistas;
         return View("Sala" + nuevaPartida.NumeroSala);
     }
 
@@ -68,6 +72,8 @@ public class HomeController : Controller
     {
         SalaDeEscape nuevaPartida = Objeto.StringToObject<SalaDeEscape>(HttpContext.Session.GetString("JuegoActual"));
         ViewBag.Pista = nuevaPartida.DarPista();
+        HttpContext.Session.SetString("JuegoActual", Objeto.ObjectToString(nuevaPartida));
+        ViewBag.numeroSala = nuevaPartida.NumeroSala;
         return View ("Pistas");
 
     }

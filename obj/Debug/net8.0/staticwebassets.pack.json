@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\audio\\AUDIO.m4a",
+      "PackagePath": "staticwebassets\\audio\\AUDIO.m4a"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\BARCO.png",
+      "PackagePath": "staticwebassets\\img\\BARCO.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\SOS.png",
+      "PackagePath": "staticwebassets\\img\\SOS.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\final.png",
+      "PackagePath": "staticwebassets\\img\\final.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\foto 1.png",
+      "PackagePath": "staticwebassets\\img\\foto 1.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\foto facu.png",
+      "PackagePath": "staticwebassets\\img\\foto facu.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\foto isla.png",
+      "PackagePath": "staticwebassets\\img\\foto isla.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\foto ludmi.png",
+      "PackagePath": "staticwebassets\\img\\foto ludmi.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\foto sofi.png",
+      "PackagePath": "staticwebassets\\img\\foto sofi.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\holaa.png",
+      "PackagePath": "staticwebassets\\img\\holaa.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\imagen 2.png",
+      "PackagePath": "staticwebassets\\img\\imagen 2.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\imagen final.webp",
+      "PackagePath": "staticwebassets\\img\\imagen final.webp"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\imagen2.webp",
+      "PackagePath": "staticwebassets\\img\\imagen2.webp"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\imagen4.webp",
+      "PackagePath": "staticwebassets\\img\\imagen4.webp"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\imagen6.webp",
+      "PackagePath": "staticwebassets\\img\\imagen6.webp"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\img\\inicio.png",
+      "PackagePath": "staticwebassets\\img\\inicio.png"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\49379260\\Documents\\TP5---Scape-Room\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimerProyecto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PrimerProyecto.props",
+      "PackagePath": "build\\PrimerProyecto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PrimerProyecto.props",
+      "PackagePath": "buildMultiTargeting\\PrimerProyecto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PrimerProyecto.props",
+      "PackagePath": "buildTransitive\\PrimerProyecto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
